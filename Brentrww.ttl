@@ -1,0 +1,18 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://wwww.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<> dct:title 'Dbpedia test';
+   foaf:primaryTopic <#me> ; 
+   skos:related <#me2> ;
+   skos:member <#me3> ;
+   skos:member <http://192.168.2.11/0329/taxonomy/term/166> .
+
+<#me> rdfs:seeAlso  <http://dbpedia.org/resource/Spacecraft> .
+<#me2> rdfs:seeAlso <http://dbpedia.org/resource/Mars_mission> .
+<#me3> owl:sameAs <http://192.168.2.11/0329/taxonomy/term/169> .
+<#me3> dct:title 'Biology' .
+<#me3> rdfs:seeAlso <http://dbpedia.org/resource/Biology> .
+<http://192.168.2.11/0329/taxonomy/term/166> dct:title 'Habitat' .
+<http://192.168.2.11/0329/taxonomy/term/166>  rdfs:seeAlso <http://dbpedia.org/resource/Habitat> . 

@@ -1,0 +1,16 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://wwww.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<> dct:title 'Biology Term test';
+   rdfs:seeAlso <http://bshambaugh.org/foaf.rdf> ;
+   skos:member <#me3> .
+<> skos:member <#me4> .
+
+<#me3> owl:sameAs <http://192.168.2.11/0329/taxonomy/term/169> .
+<#me3> dct:title 'Biology' .
+<#me3> rdfs:seeAlso <http://dbpedia.org/resource/Teleoperation> .
+<#me4> owl:sameAs <http://192.168.2.11/0329/taxonomy/term/365> .
+<#me4> dct:title 'Space Suit' .
+<#me4> rdfs:seeAlso <http://dbpedia.org/resource/Space_suit> .

@@ -1,0 +1,367 @@
+<> <http://purl.org/dc/terms/title> 'Tags' ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> ;
+<http://www.w3.org/2000/01/rdfschema#comment> 'Use tags to group articles on similar topics into categories' ;
+<http://www.w3.org/2004/02/skos/core#member> <#301> ;
+<http://www.w3.org/2004/02/skos/core#member> <#300> ;
+<http://www.w3.org/2004/02/skos/core#member> <#326> ;
+<http://www.w3.org/2004/02/skos/core#member> <#415> ;
+<http://www.w3.org/2004/02/skos/core#member> <#195> ;
+<http://www.w3.org/2004/02/skos/core#member> <#185> ;
+<http://www.w3.org/2004/02/skos/core#member> <#408> ;
+<http://www.w3.org/2004/02/skos/core#member> <#169> ;
+<http://www.w3.org/2004/02/skos/core#member> <#319> ;
+<http://www.w3.org/2004/02/skos/core#member> <#404> ;
+<http://www.w3.org/2004/02/skos/core#member> <#288> ;
+<http://www.w3.org/2004/02/skos/core#member> <#378> ;
+<http://www.w3.org/2004/02/skos/core#member> <#390> ;
+<http://www.w3.org/2004/02/skos/core#member> <#348> ;
+<http://www.w3.org/2004/02/skos/core#member> <#409> ;
+<http://www.w3.org/2004/02/skos/core#member> <#247> ;
+<http://www.w3.org/2004/02/skos/core#member> <#387> ;
+<http://www.w3.org/2004/02/skos/core#member> <#194> ;
+<http://www.w3.org/2004/02/skos/core#member> <#276> ;
+<http://www.w3.org/2004/02/skos/core#member> <#402> ;
+<http://www.w3.org/2004/02/skos/core#member> <#407> ;
+<http://www.w3.org/2004/02/skos/core#member> <#379> ;
+<http://www.w3.org/2004/02/skos/core#member> <#422> ;
+<http://www.w3.org/2004/02/skos/core#member> <#389> ;
+<http://www.w3.org/2004/02/skos/core#member> <#356> ;
+<http://www.w3.org/2004/02/skos/core#member> <#269> ;
+<http://www.w3.org/2004/02/skos/core#member> <#353> ;
+<http://www.w3.org/2004/02/skos/core#member> <#400> ;
+<http://www.w3.org/2004/02/skos/core#member> <#160> ;
+<http://www.w3.org/2004/02/skos/core#member> <#251> ;
+<http://www.w3.org/2004/02/skos/core#member> <#322> ;
+<http://www.w3.org/2004/02/skos/core#member> <#234> ;
+<http://www.w3.org/2004/02/skos/core#member> <#354> ;
+<http://www.w3.org/2004/02/skos/core#member> <#287> ;
+<http://www.w3.org/2004/02/skos/core#member> <#242> ;
+<http://www.w3.org/2004/02/skos/core#member> <#272> ;
+<http://www.w3.org/2004/02/skos/core#member> <#254> ;
+<http://www.w3.org/2004/02/skos/core#member> <#166> ;
+<http://www.w3.org/2004/02/skos/core#member> <#367> ;
+<http://www.w3.org/2004/02/skos/core#member> <#357> ;
+<http://www.w3.org/2004/02/skos/core#member> <#200> ;
+<http://www.w3.org/2004/02/skos/core#member> <#159> ;
+<http://www.w3.org/2004/02/skos/core#member> <#352> ;
+<http://www.w3.org/2004/02/skos/core#member> <#363> ;
+<http://www.w3.org/2004/02/skos/core#member> <#266> ;
+<http://www.w3.org/2004/02/skos/core#member> <#406> ;
+<http://www.w3.org/2004/02/skos/core#member> <#380> ;
+<http://www.w3.org/2004/02/skos/core#member> <#208> ;
+<http://www.w3.org/2004/02/skos/core#member> <#291> ;
+<http://www.w3.org/2004/02/skos/core#member> <#191> ;
+<http://www.w3.org/2004/02/skos/core#member> <#376> ;
+<http://www.w3.org/2004/02/skos/core#member> <#366> ;
+<http://www.w3.org/2004/02/skos/core#member> <#214> ;
+<http://www.w3.org/2004/02/skos/core#member> <#198> ;
+<http://www.w3.org/2004/02/skos/core#member> <#216> ;
+<http://www.w3.org/2004/02/skos/core#member> <#164> ;
+<http://www.w3.org/2004/02/skos/core#member> <#281> ;
+<http://www.w3.org/2004/02/skos/core#member> <#231> ;
+<http://www.w3.org/2004/02/skos/core#member> <#220> ;
+<http://www.w3.org/2004/02/skos/core#member> <#328> ;
+<http://www.w3.org/2004/02/skos/core#member> <#302> ;
+<http://www.w3.org/2004/02/skos/core#member> <#196> ;
+<http://www.w3.org/2004/02/skos/core#member> <#280> ;
+<http://www.w3.org/2004/02/skos/core#member> <#178> ;
+<http://www.w3.org/2004/02/skos/core#member> <#339> ;
+<http://www.w3.org/2004/02/skos/core#member> <#307> ;
+<http://www.w3.org/2004/02/skos/core#member> <#175> ;
+<http://www.w3.org/2004/02/skos/core#member> <#249> ;
+<http://www.w3.org/2004/02/skos/core#member> <#209> ;
+<http://www.w3.org/2004/02/skos/core#member> <#174> ;
+<http://www.w3.org/2004/02/skos/core#member> <#351> ;
+<http://www.w3.org/2004/02/skos/core#member> <#329> ;
+<http://www.w3.org/2004/02/skos/core#member> <#257> ;
+<http://www.w3.org/2004/02/skos/core#member> <#173> ;
+<http://www.w3.org/2004/02/skos/core#member> <#349> ;
+<http://www.w3.org/2004/02/skos/core#member> <#240> ;
+<http://www.w3.org/2004/02/skos/core#member> <#293> ;
+<http://www.w3.org/2004/02/skos/core#member> <#347> ;
+<http://www.w3.org/2004/02/skos/core#member> <#268> ;
+<http://www.w3.org/2004/02/skos/core#member> <#224> ;
+<http://www.w3.org/2004/02/skos/core#member> <#423> ;
+<http://www.w3.org/2004/02/skos/core#member> <#295> ;
+<http://www.w3.org/2004/02/skos/core#member> <#403> ;
+<http://www.w3.org/2004/02/skos/core#member> <#190> ;
+<http://www.w3.org/2004/02/skos/core#member> <#340> ;
+<http://www.w3.org/2004/02/skos/core#member> <#399> ;
+<http://www.w3.org/2004/02/skos/core#member> <#270> ;
+<http://www.w3.org/2004/02/skos/core#member> <#392> ;
+<http://www.w3.org/2004/02/skos/core#member> <#199> ;
+<http://www.w3.org/2004/02/skos/core#member> <#245> ;
+<http://www.w3.org/2004/02/skos/core#member> <#412> .
+<#301> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/3D_printing> .
+<#301>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/301> .
+<#301>  <http://purl.org/dc/terms/title>  '3D_printing' .
+<#300> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/3D_printing> .
+<#300>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/300> .
+<#300>  <http://purl.org/dc/terms/title>  '3D_printing' .
+<#326> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Airlock> .
+<#326>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/326> .
+<#326>  <http://purl.org/dc/terms/title>  'Airlock' .
+<#415> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Animal> .
+<#415>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/415> .
+<#415>  <http://purl.org/dc/terms/title>  'Animal' .
+<#195> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Asteroid> .
+<#195>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/195> .
+<#195>  <http://purl.org/dc/terms/title>  'Asteroid' .
+<#185> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Astronaut_Propulsion_Unit> .
+<#185>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/185> .
+<#185>  <http://purl.org/dc/terms/title>  'Astronaut_Propulsion_Unit' .
+<#408> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Biological_research> .
+<#408>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/408> .
+<#408>  <http://purl.org/dc/terms/title>  'Biological_research' .
+<#169> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Biology> .
+<#169>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/169> .
+<#169>  <http://purl.org/dc/terms/title>  'Biology' .
+<#319> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Bureaucracy> .
+<#319>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/319> .
+<#319>  <http://purl.org/dc/terms/title>  'Bureaucracy' .
+<#404> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Cargo> .
+<#404>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/404> .
+<#404>  <http://purl.org/dc/terms/title>  'Cargo' .
+<#288> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Colony> .
+<#288>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/288> .
+<#288>  <http://purl.org/dc/terms/title>  'Colony' .
+<#378> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Commerce> .
+<#378>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/378> .
+<#378>  <http://purl.org/dc/terms/title>  'Commerce' .
+<#390> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Commercial_Crew_Development> .
+<#390>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/390> .
+<#390>  <http://purl.org/dc/terms/title>  'Commercial_Crew_Development' .
+<#348> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Communications_satellite> .
+<#348>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/348> .
+<#348>  <http://purl.org/dc/terms/title>  'Communications_satellite' .
+<#409> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Cosmic-ray_observatory> .
+<#409>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/409> .
+<#409>  <http://purl.org/dc/terms/title>  'Cosmic-ray_observatory' .
+<#247> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Crane_(machine)> .
+<#247>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/247> .
+<#247>  <http://purl.org/dc/terms/title>  'Crane_(machine)' .
+<#387> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Human_spaceflight> .
+<#387>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/387> .
+<#387>  <http://purl.org/dc/terms/title>  'Human_spaceflight' .
+<#194> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Database> .
+<#194>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/194> .
+<#194>  <http://purl.org/dc/terms/title>  'Database' .
+<#276> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Spacecraft_docking_and_berthing_mechanism> .
+<#276>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/276> .
+<#276>  <http://purl.org/dc/terms/title>  'Spacecraft_docking_and_berthing_mechanism' .
+<#402> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Earth> .
+<#402>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/402> .
+<#402>  <http://purl.org/dc/terms/title>  'Earth' .
+<#407> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Earth_observation_satellite> .
+<#407>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/407> .
+<#407>  <http://purl.org/dc/terms/title>  'Earth_observation_satellite' .
+<#379> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Earth_science> .
+<#379>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/379> .
+<#379>  <http://purl.org/dc/terms/title>  'Earth_science' .
+<#422> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lagrangian_point> .
+<#422>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/422> .
+<#422>  <http://purl.org/dc/terms/title>  'Lagrangian_point' .
+<#389> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Earth_to_orbit> .
+<#389>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/389> .
+<#389>  <http://purl.org/dc/terms/title>  'Earth_to_orbit' .
+<#356> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lagrangian_point> .
+<#356>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/356> .
+<#356>  <http://purl.org/dc/terms/title>  'Lagrangian_point' .
+<#269> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Education> .
+<#269>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/269> .
+<#269>  <http://purl.org/dc/terms/title>  'Education' .
+<#353> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Electrically_powered_spacecraft_propulsion> .
+<#353>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/353> .
+<#353>  <http://purl.org/dc/terms/title>  'Electrically_powered_spacecraft_propulsion' .
+<#400> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Capitalism> .
+<#400>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/400> .
+<#400>  <http://purl.org/dc/terms/title>  'Capitalism' .
+<#160> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Exoplanet> .
+<#160>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/160> .
+<#160>  <http://purl.org/dc/terms/title>  'Exoplanet' .
+<#251> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Experiment> .
+<#251>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/251> .
+<#251>  <http://purl.org/dc/terms/title>  'Experiment' .
+<#322> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Space_exploration> .
+<#322>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/322> .
+<#322>  <http://purl.org/dc/terms/title>  'Space_exploration' .
+<#234> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/ExPRESS_Logistics_Carrier> .
+<#234>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/234> .
+<#234>  <http://purl.org/dc/terms/title>  'ExPRESS_Logistics_Carrier' .
+<#354> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Extra-vehicular_activity> .
+<#354>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/354> .
+<#354>  <http://purl.org/dc/terms/title>  'Extra-vehicular_activity' .
+<#287> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Agriculture> .
+<#287>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/287> .
+<#287>  <http://purl.org/dc/terms/title>  'Agriculture' .
+<#242> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Food> .
+<#242>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/242> .
+<#242>  <http://purl.org/dc/terms/title>  'Food' .
+<#272> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Propellant_depot> .
+<#272>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/272> .
+<#272>  <http://purl.org/dc/terms/title>  'Propellant_depot' .
+<#254> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Gamma_ray> .
+<#254>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/254> .
+<#254>  <http://purl.org/dc/terms/title>  'Gamma_ray' .
+<#166> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Habitat> .
+<#166>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/166> .
+<#166>  <http://purl.org/dc/terms/title>  'Habitat' .
+<#367> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Human> .
+<#367>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/367> .
+<#367>  <http://purl.org/dc/terms/title>  'Human' .
+<#357> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Infrared> .
+<#357>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/357> .
+<#357>  <http://purl.org/dc/terms/title>  'Infrared' .
+<#200> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/International_Space_Station> .
+<#200>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/200> .
+<#200>  <http://purl.org/dc/terms/title>  'International_Space_Station' .
+<#159> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Interstellar_probe> .
+<#159>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/159> .
+<#159>  <http://purl.org/dc/terms/title>  'Interstellar_probe' .
+<#352> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Ion_propulsion> .
+<#352>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/352> .
+<#352>  <http://purl.org/dc/terms/title>  'Ion_propulsion' .
+<#363> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/International_Space_Station> .
+<#363>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/363> .
+<#363>  <http://purl.org/dc/terms/title>  'International_Space_Station' .
+<#266> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Kibo_(ISS_module)> .
+<#266>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/266> .
+<#266>  <http://purl.org/dc/terms/title>  'Kibo_(ISS_module)' .
+<#406> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Moons_of_Jupiter> .
+<#406>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/406> .
+<#406>  <http://purl.org/dc/terms/title>  'Moons_of_Jupiter' .
+<#380> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lagrangian_point> .
+<#380>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/380> .
+<#380>  <http://purl.org/dc/terms/title>  'Lagrangian_point' .
+<#208> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lander_%28spacecraft%29> .
+<#208>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/208> .
+<#208>  <http://purl.org/dc/terms/title>  'Lander_%28spacecraft%29' .
+<#291> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Laser> .
+<#291>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/291> .
+<#291>  <http://purl.org/dc/terms/title>  'Laser' .
+<#191> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Launch_vehicle> .
+<#191>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/191> .
+<#191>  <http://purl.org/dc/terms/title>  'Launch_vehicle' .
+<#376> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Low_Earth_orbit> .
+<#376>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/376> .
+<#376>  <http://purl.org/dc/terms/title>  'Low_Earth_orbit' .
+<#366> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Exploration_of_the_Moon> .
+<#366>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/366> .
+<#366>  <http://purl.org/dc/terms/title>  'Exploration_of_the_Moon' .
+<#214> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lunar_orbit> .
+<#214>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/214> .
+<#214>  <http://purl.org/dc/terms/title>  'Lunar_orbit' .
+<#198> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Lunar_rover> .
+<#198>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/198> .
+<#198>  <http://purl.org/dc/terms/title>  'Lunar_rover' .
+<#216> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Human_spaceflight> .
+<#216>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/216> .
+<#216>  <http://purl.org/dc/terms/title>  'Human_spaceflight' .
+<#164> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Manufacturing> .
+<#164>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/164> .
+<#164>  <http://purl.org/dc/terms/title>  'Manufacturing' .
+<#281> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Manufacturing_plant> .
+<#281>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/281> .
+<#281>  <http://purl.org/dc/terms/title>  'Manufacturing_plant' .
+<#231> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Mars> .
+<#231>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/231> .
+<#231>  <http://purl.org/dc/terms/title>  'Mars' .
+<#220> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Mars_mission> .
+<#220>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/220> .
+<#220>  <http://purl.org/dc/terms/title>  'Mars_mission' .
+<#328> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Materials_science> .
+<#328>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/328> .
+<#328>  <http://purl.org/dc/terms/title>  'Materials_science' .
+<#302> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Micro-g_environment> .
+<#302>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/302> .
+<#302>  <http://purl.org/dc/terms/title>  'Micro-g_environment' .
+<#196> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Mining> .
+<#196>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/196> .
+<#196>  <http://purl.org/dc/terms/title>  'Mining' .
+<#280> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Moon> .
+<#280>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/280> .
+<#280>  <http://purl.org/dc/terms/title>  'Moon' .
+<#178> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Near-Earth_object> .
+<#178>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/178> .
+<#178>  <http://purl.org/dc/terms/title>  'Near-Earth_object' .
+<#339> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Non-governmental_organization> .
+<#339>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/339> .
+<#339>  <http://purl.org/dc/terms/title>  'Non-governmental_organization' .
+<#307> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Nuclear_power> .
+<#307>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/307> .
+<#307>  <http://purl.org/dc/terms/title>  'Nuclear_power' .
+<#175> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Observatory> .
+<#175>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/175> .
+<#175>  <http://purl.org/dc/terms/title>  'Observatory' .
+<#249> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Orbiter> .
+<#249>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/249> .
+<#249>  <http://purl.org/dc/terms/title>  'Orbiter' .
+<#209> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Phobos_%28moon%29> .
+<#209>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/209> .
+<#209>  <http://purl.org/dc/terms/title>  'Phobos_%28moon%29' .
+<#174> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Research> .
+<#174>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/174> .
+<#174>  <http://purl.org/dc/terms/title>  'Research' .
+<#351> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Rocket> .
+<#351>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/351> .
+<#351>  <http://purl.org/dc/terms/title>  'Rocket' .
+<#329> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Rocket_engine> .
+<#329>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/329> .
+<#329>  <http://purl.org/dc/terms/title>  'Rocket_engine' .
+<#257> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Sample_return_mission> .
+<#257>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/257> .
+<#257>  <http://purl.org/dc/terms/title>  'Sample_return_mission' .
+<#173> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Global_Positioning_System> .
+<#173>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/173> .
+<#173>  <http://purl.org/dc/terms/title>  'Global_Positioning_System' .
+<#349> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Space_Launch_System> .
+<#349>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/349> .
+<#349>  <http://purl.org/dc/terms/title>  'Space_Launch_System' .
+<#240> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Heliocentric_orbit> .
+<#240>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/240> .
+<#240>  <http://purl.org/dc/terms/title>  'Heliocentric_orbit' .
+<#293> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Solar_panel> .
+<#293>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/293> .
+<#293>  <http://purl.org/dc/terms/title>  'Solar_panel' .
+<#347> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Space_station> .
+<#347>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/347> .
+<#347>  <http://purl.org/dc/terms/title>  'Space_station' .
+<#268> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Space_weather> .
+<#268>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/268> .
+<#268>  <http://purl.org/dc/terms/title>  'Space_weather' .
+<#224> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Spacecraft> .
+<#224>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/224> .
+<#224>  <http://purl.org/dc/terms/title>  'Spacecraft' .
+<#423> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Spaceport> .
+<#423>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/423> .
+<#423>  <http://purl.org/dc/terms/title>  'Spaceport' .
+<#295> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Space_suit> .
+<#295>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/295> .
+<#295>  <http://purl.org/dc/terms/title>  'Space_suit' .
+<#403> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Sub-orbital_spaceflight> .
+<#403>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/403> .
+<#403>  <http://purl.org/dc/terms/title>  'Sub-orbital_spaceflight' .
+<#190> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Teleoperation> .
+<#190>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/190> .
+<#190>  <http://purl.org/dc/terms/title>  'Teleoperation' .
+<#340> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Telescope> .
+<#340>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/340> .
+<#340>  <http://purl.org/dc/terms/title>  'Telescope' .
+<#399> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Terraforming> .
+<#399>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/399> .
+<#399>  <http://purl.org/dc/terms/title>  'Terraforming' .
+<#270> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/University> .
+<#270>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/270> .
+<#270>  <http://purl.org/dc/terms/title>  'University' .
+<#392> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/United_States> .
+<#392>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/392> .
+<#392>  <http://purl.org/dc/terms/title>  'United_States' .
+<#199> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Vehicle> .
+<#199>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/199> .
+<#199>  <http://purl.org/dc/terms/title>  'Vehicle' .
+<#245> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Spacecraft> .
+<#245>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/245> .
+<#245>  <http://purl.org/dc/terms/title>  'Spacecraft' .
+<#412> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Virtual_reality> .
+<#412>  <http://www.w3.org/2002/07/owl#sameAs> <http://192.168.2.11/0329/taxonomy/term/412> .
+<#412>  <http://purl.org/dc/terms/title>  'Virtual_reality' .
